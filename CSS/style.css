@@ -1,0 +1,45 @@
+.inline-block{
+    display: inline-block;
+    vertical-align: top;
+    text-align: right;
+    padding: 20px;
+}
+.logo{
+    width: 23%;
+    padding:1%;
+    text-align: center;
+}
+.nav{
+    width:73%;
+    padding:100px;
+}
+.ul{
+    width: 50%;
+    margin-left: auto;
+}
+.heroImg{
+    height: 600px;
+    padding: 25px;
+}
+.hero{
+    float: left;
+    padding: 1%;
+}
+.content{
+    width: 500px;
+}
+.aboutMe{
+    margin: 0 auto;
+}
+.footer{
+    background-color: #373738;
+    padding: center;
+    display: inline-block;
+    vertical-align: top;
+    list-style: center;
+}
+body{
+    background-color: #1F0334;
+    font-family: 'Open Sans', sans-serif;
+    color: whitesmoke;
+}
